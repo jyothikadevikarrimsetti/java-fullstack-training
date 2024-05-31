@@ -4,7 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="2b66cbbe-d53a-4143-9dfa-0c3fef71dee9" name="Changes" comment="Merge remote-tracking branch 'origin/master'" />
+    <list default="true" id="2b66cbbe-d53a-4143-9dfa-0c3fef71dee9" name="Changes" comment="Merge remote-tracking branch 'origin/master'">
+      <change afterPath="$PROJECT_DIR$/Day5/LogicalOperator.java" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -45,63 +47,63 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "Application.ALlArithematicOperators.executor": "Run",
-    "Application.AddingTwoNumbers.executor": "Run",
-    "Application.AllArithematicOperators.executor": "Run",
-    "Application.ArithematicOperators.executor": "Run",
-    "Application.ArrayAdditems.executor": "Run",
-    "Application.AssignmentOperators.executor": "Run",
-    "Application.BooleanToFloat.executor": "Run",
-    "Application.ComparisionOperators.executor": "Run",
-    "Application.ConcatUsinngKeyWord.executor": "Run",
-    "Application.ConcateTwoStrings.executor": "Run",
-    "Application.ConvertIntIntoDouble.executor": "Run",
-    "Application.ConvertingDoubletoInt.executor": "Debug",
-    "Application.ConvertingFloatToDouble.executor": "Run",
-    "Application.DataTypesConversions.executor": "Run",
-    "Application.DifferentstringMethods.executor": "Run",
-    "Application.EmployeDetails.executor": "Run",
-    "Application.ExplicitTypecasting.executor": "Run",
-    "Application.IntToShort.executor": "Run",
-    "Application.IntToString.executor": "Run",
-    "Application.LengthOfString.executor": "Run",
-    "Application.LoopThroughAnArraylist.executor": "Run",
-    "Application.Operators.executor": "Run",
-    "Application.ShortToLong.executor": "Run",
-    "Application.StringAddingTwoNums.executor": "Run",
-    "Application.StringGreeting.executor": "Run",
-    "Application.StringStorage.executor": "Run",
-    "Application.StringToInt.executor": "Run",
-    "Application.StringToUppercase.executor": "Run",
-    "Application.StringToascii.executor": "Run",
-    "Application.StringmathMethods.executor": "Run",
-    "Application.StringspecialCharacters.executor": "Run",
-    "Application.TypeCasting.executor": "Run",
-    "Application.arithematicOperations.executor": "Run",
-    "Application.artithematic.executor": "Run",
-    "Application.averagenumbers.executor": "Run",
-    "Application.booleanDatatype.executor": "Run",
-    "Application.booleanToInt.executor": "Run",
-    "Application.convertingIntToChar.executor": "Run",
-    "Application.datatypes.executor": "Run",
-    "Application.hello.executor": "Run",
-    "Application.helloworld.executor": "Run",
-    "Application.intToByte.executor": "Run",
-    "Application.intToDouble.executor": "Run",
-    "Application.longToInteger.executor": "Run",
-    "Application.temparature.executor": "Run",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "git-widget-placeholder": "master",
-    "kotlin-language-version-configured": "true",
-    "last_opened_file_path": "C:/Users/91807/IdeaProjects/java full stack training",
-    "onboarding.tips.debug.path": "C:/Users/91807/IdeaProjects/java full stack training/src/Main.java",
-    "project.structure.last.edited": "Modules",
-    "project.structure.proportion": "0.0",
-    "project.structure.side.proportion": "0.0"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;Application.ALlArithematicOperators.executor&quot;: &quot;Run&quot;,
+    &quot;Application.AddingTwoNumbers.executor&quot;: &quot;Run&quot;,
+    &quot;Application.AllArithematicOperators.executor&quot;: &quot;Run&quot;,
+    &quot;Application.ArithematicOperators.executor&quot;: &quot;Run&quot;,
+    &quot;Application.ArrayAdditems.executor&quot;: &quot;Run&quot;,
+    &quot;Application.AssignmentOperators.executor&quot;: &quot;Run&quot;,
+    &quot;Application.BooleanToFloat.executor&quot;: &quot;Run&quot;,
+    &quot;Application.ComparisionOperators.executor&quot;: &quot;Run&quot;,
+    &quot;Application.ConcatUsinngKeyWord.executor&quot;: &quot;Run&quot;,
+    &quot;Application.ConcateTwoStrings.executor&quot;: &quot;Run&quot;,
+    &quot;Application.ConvertIntIntoDouble.executor&quot;: &quot;Run&quot;,
+    &quot;Application.ConvertingDoubletoInt.executor&quot;: &quot;Debug&quot;,
+    &quot;Application.ConvertingFloatToDouble.executor&quot;: &quot;Run&quot;,
+    &quot;Application.DataTypesConversions.executor&quot;: &quot;Run&quot;,
+    &quot;Application.DifferentstringMethods.executor&quot;: &quot;Run&quot;,
+    &quot;Application.EmployeDetails.executor&quot;: &quot;Run&quot;,
+    &quot;Application.ExplicitTypecasting.executor&quot;: &quot;Run&quot;,
+    &quot;Application.IntToShort.executor&quot;: &quot;Run&quot;,
+    &quot;Application.IntToString.executor&quot;: &quot;Run&quot;,
+    &quot;Application.LengthOfString.executor&quot;: &quot;Run&quot;,
+    &quot;Application.LoopThroughAnArraylist.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Operators.executor&quot;: &quot;Run&quot;,
+    &quot;Application.ShortToLong.executor&quot;: &quot;Run&quot;,
+    &quot;Application.StringAddingTwoNums.executor&quot;: &quot;Run&quot;,
+    &quot;Application.StringGreeting.executor&quot;: &quot;Run&quot;,
+    &quot;Application.StringStorage.executor&quot;: &quot;Run&quot;,
+    &quot;Application.StringToInt.executor&quot;: &quot;Run&quot;,
+    &quot;Application.StringToUppercase.executor&quot;: &quot;Run&quot;,
+    &quot;Application.StringToascii.executor&quot;: &quot;Run&quot;,
+    &quot;Application.StringmathMethods.executor&quot;: &quot;Run&quot;,
+    &quot;Application.StringspecialCharacters.executor&quot;: &quot;Run&quot;,
+    &quot;Application.TypeCasting.executor&quot;: &quot;Run&quot;,
+    &quot;Application.arithematicOperations.executor&quot;: &quot;Run&quot;,
+    &quot;Application.artithematic.executor&quot;: &quot;Run&quot;,
+    &quot;Application.averagenumbers.executor&quot;: &quot;Run&quot;,
+    &quot;Application.booleanDatatype.executor&quot;: &quot;Run&quot;,
+    &quot;Application.booleanToInt.executor&quot;: &quot;Run&quot;,
+    &quot;Application.convertingIntToChar.executor&quot;: &quot;Run&quot;,
+    &quot;Application.datatypes.executor&quot;: &quot;Run&quot;,
+    &quot;Application.hello.executor&quot;: &quot;Run&quot;,
+    &quot;Application.helloworld.executor&quot;: &quot;Run&quot;,
+    &quot;Application.intToByte.executor&quot;: &quot;Run&quot;,
+    &quot;Application.intToDouble.executor&quot;: &quot;Run&quot;,
+    &quot;Application.longToInteger.executor&quot;: &quot;Run&quot;,
+    &quot;Application.temparature.executor&quot;: &quot;Run&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;master&quot;,
+    &quot;kotlin-language-version-configured&quot;: &quot;true&quot;,
+    &quot;last_opened_file_path&quot;: &quot;C:/Users/91807/IdeaProjects/java full stack training&quot;,
+    &quot;onboarding.tips.debug.path&quot;: &quot;C:/Users/91807/IdeaProjects/java full stack training/src/Main.java&quot;,
+    &quot;project.structure.last.edited&quot;: &quot;Modules&quot;,
+    &quot;project.structure.proportion&quot;: &quot;0.0&quot;,
+    &quot;project.structure.side.proportion&quot;: &quot;0.0&quot;
   }
-}]]></component>
+}</component>
   <component name="RunManager">
     <configuration name="ComparisionOperators" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="ComparisionOperators" />
@@ -461,7 +463,15 @@
       <option name="project" value="LOCAL" />
       <updated>1717141075801</updated>
     </task>
-    <option name="localTasksCounter" value="43" />
+    <task id="LOCAL-00043" summary="Merge remote-tracking branch 'origin/master'">
+      <option name="closed" value="true" />
+      <created>1717146724370</created>
+      <option name="number" value="00043" />
+      <option name="presentableId" value="LOCAL-00043" />
+      <option name="project" value="LOCAL" />
+      <updated>1717146724370</updated>
+    </task>
+    <option name="localTasksCounter" value="44" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">

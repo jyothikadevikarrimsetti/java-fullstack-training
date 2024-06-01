@@ -1,27 +1,32 @@
 //Palindrome Check without using string methods.
 public class PalindromeCheckWithoutString {
-    public static void main(String args[]){
-        int number = 1010101 ;
-        int temp = number;
-        int reversenum  = 0;
-        temp = number;
-        System.out.println(number);
-        System.out.println(reversenum);
-        while (temp > 0) {
-            int digit = temp % 10;
-            reversenum = reversenum * 10 + digit;
-            temp = temp / 10;
-        }
-        if(number == reversenum) {
-            System.out.println("is a palindrome number");
-        }
-        else{
-            System.out.println("is not a palindrome number");
-        }
-
+    public static void main(String args[]) {
+        String val = "MADAM";
+        if (ispalindrome(val)) {
+            System.out.println("The given is palindrome" + val);
+        } else {
+            System.out.println("The given is not a palindrome" + val);
         }
 
     }
+
+    public static boolean ispalindrome(String val) {
+        int first = 0;
+        int last = val.length() - 1;
+        while (first < last) {
+            if (val.charAt(first) != val.charAt(last)) {
+                return false;
+            }
+            first++;
+            last--;
+        }
+        return true;
+
+       }
+    }
+ }
+
+
 
 
 

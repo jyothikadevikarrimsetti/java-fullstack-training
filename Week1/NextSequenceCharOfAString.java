@@ -1,13 +1,12 @@
 public class NextSequenceCharOfAString {
-    public static void main(String args[]) {
-        String str = "abc";
-        char[] charArray = str.toCharArray();
-        for (char ch : charArray) {
-            int ascii = (int) ch;
-            int nextAscii = ascii + 1;
-            char nextChar = (char) nextAscii;
-            System.out.println("Original character: " + ch);
-            System.out.println("Next sequence character: " + nextChar);
-        }
+    public static char getNextCharacter(String str) {
+        char lastChar = str.charAt(str.length() - 1);
+        return ++lastChar;
+    }
+
+    public static void main(String[] args) {
+        String str = "Hello";
+        char nextChar = getNextCharacter(str);
+        System.out.println("Next character after '" + str.charAt(str.length() - 1) + "' is: " + nextChar);
     }
 }

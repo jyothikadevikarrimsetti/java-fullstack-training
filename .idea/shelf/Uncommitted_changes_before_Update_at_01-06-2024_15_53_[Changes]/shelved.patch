@@ -1,0 +1,18 @@
+Index: Week1/PalindromeCheckWithoutString.java
+IDEA additional info:
+Subsystem: com.intellij.openapi.diff.impl.patch.BaseRevisionTextPatchEP
+<+>//Palindrome Check without using string methods.\r\npublic class PalindromeCheckWithoutString {\r\n    public static void main(String args[]) {\r\n        String val = \"MADAM\";\r\n        if (ispalindrome(val)) {\r\n            System.out.println(\"The given is palindrome\" + val);\r\n        } else {\r\n            System.out.println(\"The given is not a palindrome\" + val);\r\n        }\r\n\r\n    }\r\n\r\n    public static boolean ispalindrome(String val) {\r\n        int first = 0;\r\n        int last = val.length() - 1;\r\n        while (first < last) {\r\n            if (val.charAt(first) != val.charAt(last)) {\r\n                return false;\r\n            }\r\n            first++;\r\n            last--;\r\n        }\r\n        return true;\r\n\r\n       }\r\n    }\r\n }\r\n\r\n\r\n\r\n\r\n\r\n
+Subsystem: com.intellij.openapi.diff.impl.patch.CharsetEP
+<+>UTF-8
+===================================================================
+diff --git a/Week1/PalindromeCheckWithoutString.java b/Week1/PalindromeCheckWithoutString.java
+--- a/Week1/PalindromeCheckWithoutString.java	(revision 8ef036ff7bb9c035b33b3be0fb7a648ab33c67b1)
++++ b/Week1/PalindromeCheckWithoutString.java	(date 1717236255335)
+@@ -9,7 +9,6 @@
+         }
+ 
+     }
+-
+     public static boolean ispalindrome(String val) {
+         int first = 0;
+         int last = val.length() - 1;

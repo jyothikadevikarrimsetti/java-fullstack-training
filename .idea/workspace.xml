@@ -5,6 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="2b66cbbe-d53a-4143-9dfa-0c3fef71dee9" name="Changes" comment="Merge remote-tracking branch 'origin/master'">
+      <change beforePath="$PROJECT_DIR$/.idea/java full stack training.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/java full stack training.iml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -47,8 +48,6 @@
   "keyToString": {
     "Application.Conditionalelseif.executor": "Run",
     "Application.Conditionalifelse.executor": "Run",
-    "Application.ConstructorBox.executor": "Run",
-    "Application.ConstructorOverloading.executor": "Run",
     "Application.CountCharactersinaString.executor": "Run",
     "Application.EvenIndexesOfArray.executor": "Run",
     "Application.FinalKeyword.executor": "Run",
@@ -212,23 +211,7 @@
       <option name="project" value="LOCAL" />
       <updated>1717668670626</updated>
     </task>
-    <task id="LOCAL-00015" summary="Merge remote-tracking branch 'origin/master'">
-      <option name="closed" value="true" />
-      <created>1717749092011</created>
-      <option name="number" value="00015" />
-      <option name="presentableId" value="LOCAL-00015" />
-      <option name="project" value="LOCAL" />
-      <updated>1717749092011</updated>
-    </task>
-    <task id="LOCAL-00016" summary="Merge remote-tracking branch 'origin/master'">
-      <option name="closed" value="true" />
-      <created>1717749105338</created>
-      <option name="number" value="00016" />
-      <option name="presentableId" value="LOCAL-00016" />
-      <option name="project" value="LOCAL" />
-      <updated>1717749105338</updated>
-    </task>
-    <option name="localTasksCounter" value="17" />
+    <option name="localTasksCounter" value="15" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">

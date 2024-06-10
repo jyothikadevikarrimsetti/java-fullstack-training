@@ -5,7 +5,7 @@ public class SearchAnElement {
                 {4,5,6},
                 {7,8,9}
         };
-        int number = 5;
+        int number = 80;
         int rows = matrix.length;
         int colms= matrix[0].length;
         for(int i=0; i<rows; i++){
@@ -16,7 +16,7 @@ public class SearchAnElement {
                 }
             }
         }
-        System.out.println(" ");
-        System.out.println(-1);
+        System.out.println("Return-1");
+//        System.out.println(-1);
     }
 }

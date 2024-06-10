@@ -7,7 +7,7 @@ public class SumofEvenIndexArray {
     public static int sumofEvenIndexes(int[]array){
         int sum = 0;
         for(int i=0; i<array.length; i+=2){
-            sum+=array[i];
+            sum+=i;
         }
         return sum;
     }

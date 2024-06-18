@@ -5,13 +5,13 @@ public class SearchAnElement {
                 {4,5,6},
                 {7,8,9}
         };
-        int number = 80;
+        int number = 2;
         int rows = matrix.length;
         int colms= matrix[0].length;
         for(int i=0; i<rows; i++){
             for(int j=0; j<colms; j++){
                 if(matrix[i][j] == number){
-                    System.out.println(number);
+                    System.out.println(i+" , "+j);
                     return;
                 }
             }

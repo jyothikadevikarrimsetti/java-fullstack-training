@@ -23,7 +23,7 @@
 //}
 public class ThreadProg {
     // Define a ThreadLocal variable
-    private static ThreadLocal<Integer> threadLocalValue = ThreadLocal.withInitial(() -> 0);
+    private static ThreadLocal<Integer> threadLocalValue =  ThreadLocal.withInitial(() -> 0);
 
     public static void main(String[] args) throws InterruptedException {
         // Create and start multiple threads

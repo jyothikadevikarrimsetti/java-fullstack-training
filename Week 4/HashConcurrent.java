@@ -6,6 +6,7 @@ public class HashConcurrent {
         con.put(4,"apple");
         con.put(7,"banana");
         con.put(6,"grapes");
+        con.put(2,"berry");
 //        System.out.println(con.get(8));
         System.out.println("Elements:"+con);
         con.put(3,"jyo");

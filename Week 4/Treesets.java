@@ -9,8 +9,9 @@ public class Treesets {
         val.add(2);
         val.add(6);
         System.out.println(val.descendingSet());
-//        System.out.println(val.add(6));
-
+        val.add(7);
+        System.out.println("after updation:"+val);
+//       System.out.println(val.add(6));
 
     }
 }

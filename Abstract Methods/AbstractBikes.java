@@ -1,6 +1,7 @@
 abstract class bike{
     public abstract void bikeparts();
     public void fuel(){
+
         System.out.println("petrol");
     }
         }

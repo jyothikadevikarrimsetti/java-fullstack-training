@@ -23,7 +23,7 @@ public class MultiplyTwoMatrix {
                 System.out.println();
             }
         }
-        System.out.println(Arrays.deepToString(result));
+//        System.out.println(Arrays.deepToString(result));
 //            for (int i = 0; i < result.length; i++) {
 //                for (int j = 0; j < result.length; j++) {
 //                    System.out.print(result[i][j] + " ");

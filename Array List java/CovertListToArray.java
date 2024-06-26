@@ -7,6 +7,7 @@ public class CovertListToArray {
         list.add(1);
         list.add(2);
         list.add(3);
+        System.out.println("Print list:"+list);
 //        covert to array
         Integer[]array = list.toArray(new Integer[0]);
 //        print array

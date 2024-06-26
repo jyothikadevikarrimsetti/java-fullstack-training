@@ -1,7 +1,7 @@
 import java.util.HashSet;
 import java.util.Iterator;
 
-public class HS {
+public class  HS {
     public static void main(String args[]){
         HashSet<String> hs = new HashSet();
         hs.add("India");

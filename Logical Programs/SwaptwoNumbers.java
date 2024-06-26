@@ -5,8 +5,9 @@ public class SwaptwoNumbers {
         System.out.println("Before Swapping:");
         System.out.println("a="+a);
         System.out.println("b="+b);
-//        a=b;
-//        b=a;
+//        a=a+b;
+//        b=a-b;
+//        a=b-a;
        a=a^b;
        b=a^b;
        a=a^b;

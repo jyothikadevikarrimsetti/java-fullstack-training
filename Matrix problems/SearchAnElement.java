@@ -12,7 +12,7 @@ public class SearchAnElement {
             for(int j=0; j<colms; j++){
                 if(matrix[i][j] == number){
                     System.out.println(i+" , "+j);
-                    return;
+                    return ;
                 }
             }
         }

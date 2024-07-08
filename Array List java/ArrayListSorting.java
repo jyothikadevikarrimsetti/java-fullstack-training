@@ -13,7 +13,7 @@ public class ArrayListSorting {
         list.add("pomo");
         list.add("lychee");
         System.out.println("Befor sorting:"+list);
-//        Collections.sort(list);
+        Collections.sort(list);
 //        Collections.sort(list,reverseOrder());
         System.out.println("After sorting"+list);
 

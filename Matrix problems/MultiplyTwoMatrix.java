@@ -30,6 +30,16 @@ public class MultiplyTwoMatrix {
 //                }
 //                System.out.println();
 //            }
+//        int result[][]= new int[3][3];
+//        for(i =0; i<matrix1.length; i++){
+//            for (j=0;j<matrix1[0].length;j++){
+//                for(k=0;,k<matrix1.length;k++){
+//                    result[i][k] = matrix1[i][j]*matrix2[j][k];
+//                    System.out.println(result[i][k]+" ");
+//                    System.out.println(i+""+j+""+k);
+//                }
+//            }
+//        }
         }
     }
 

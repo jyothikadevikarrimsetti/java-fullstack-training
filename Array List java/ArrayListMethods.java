@@ -1,6 +1,6 @@
 import java.util.ArrayList;
 
-public class ArrayListMethods {
+public class  ArrayListMethods {
     public static void main(String args[]){
         ArrayList<String> list = new ArrayList<>();
         list.add("maths");

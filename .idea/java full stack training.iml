@@ -11,6 +11,12 @@
       <sourceFolder url="file://$MODULE_DIR$/Exception Handling" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/HashTable" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/Array List java" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Week 4" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Preparation" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Constructors" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Week 5" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Topics preparation" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Access Modifiers" isTestSource="false" />
     </content>
     <orderEntry type="inheritedJdk" />
     <orderEntry type="sourceFolder" forTests="false" />

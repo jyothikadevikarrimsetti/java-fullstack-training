@@ -5,99 +5,28 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="5e63e729-50f4-47c4-9588-145933470554" name="Changes" comment="commit">
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Abstract Methods/StaticNestedClasses.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Access Modifiers/AllAccessModifiers.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Access Modifiers/ExportPackage/ExportPackageClass.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Access Modifiers/FunctionalInterfaceProgram.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Access Modifiers/ImportPackageClass/ImportPackageClass.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Access Modifiers/OptionalProgjava.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Access Modifiers/StreamsJavaProg.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Access Modifiers/ThreadUsingLambda.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Access Modifiers/ThreadUsingRunnable.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Array List java/AccssSpf.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Array List java/MapsConcs.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Array List java/NewFile.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/HashTable/AnonymousClassesProgs.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Logical Programs/AbstractPract.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Logical Programs/PracticeJava.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Preparation/PalindromeString.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Topics preparation/AbstarctClass.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Topics preparation/AccessModifiers.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Topics preparation/AccessOuterclassFromInnerClass.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Topics preparation/ActualOrder.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Topics preparation/Agenotmet.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Topics preparation/ArrayElements.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Topics preparation/ArrayListCars.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Topics preparation/ArrayPrinting.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Topics preparation/ArraySorting.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Topics preparation/ConPract.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Topics preparation/ConstructorsPrep.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Topics preparation/EncapsulationTypes.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Topics preparation/EvenArray.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Topics preparation/Exceptionhand.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Topics preparation/Exceptionjyok.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Topics preparation/ForEach.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Topics preparation/HandlingException.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Topics preparation/Inheritancetops.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Topics preparation/InnerOterClasses.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Topics preparation/InterfaceProgram1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Topics preparation/JavaCons.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Topics preparation/Loops.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Topics preparation/MetAge.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Topics preparation/ParentChild.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Topics preparation/PolymorphismPrep.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Topics preparation/Pract.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Topics preparation/PrepareClasses.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Topics preparation/Prepjava.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Topics preparation/Stars.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Topics preparation/StaticInnerclass.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Topics preparation/StringRev.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Topics preparation/ThreadAnother.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Topics preparation/ThreadExtends.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Topics preparation/ThreadList.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Topics preparation/UserInput.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Topics preparation/Whileloop.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Week 4/VoletileProg.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Week 5/Abstractmain.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Week 5/AccessSpecifiers.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Week 5/BasicStream.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Week 5/ConstructorBike.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Week 5/CreationStreams.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Week 5/Customexception.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Week 5/Dolly.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Week 5/ExampleInner.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Week 5/Examples.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Week 5/Exceptionjyo.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Week 5/Innerclass.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Week 5/InterfacePogram.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Week 5/Internalclass.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Week 5/JavaOptionals.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Week 5/JavaStreams.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Week 5/Lamdas.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Week 5/MethodHiding.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Week 5/MethodOverriding.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Week 5/Methodcalling.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Week 5/Methods.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Week 5/NestedClass.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Week 5/NewClass.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Week 5/Overrinding.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Week 5/Question05.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Week 5/Scanner1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Week 5/SlidingWindow.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Week 5/Solution.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Week 5/StringBuff.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Week 5/Stringbuffbuildmeths.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Week 5/UsingSuper.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Week 5/inface.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/java full stack training.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/java full stack training.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Update_at_18-06-2024_10_49_[Changes]1/shelved.patch" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Update_at_18-06-2024_10_49__Changes_1.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Array List java/ArrayListMethods.java" beforeDir="false" afterPath="$PROJECT_DIR$/Array List java/ArrayListMethods.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Array List java/ArrayListSorting.java" beforeDir="false" afterPath="$PROJECT_DIR$/Array List java/ArrayListSorting.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Logical Programs/SumofEvenIndexArray.java" beforeDir="false" afterPath="$PROJECT_DIR$/Logical Programs/SumofEvenIndexArray.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Matrix problems/MultiplyTwoMatrix.java" beforeDir="false" afterPath="$PROJECT_DIR$/Matrix problems/MultiplyTwoMatrix.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Matrix problems/SearchAnElement.java" beforeDir="false" afterPath="$PROJECT_DIR$/Matrix problems/SearchAnElement.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Access Modifiers/Fibonacci.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Access Modifiers/ThreadJyo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Array List java/Preparation.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Constructors/Studentdet.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Matrix problems/Books.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Matrix problems/ConditionalOperators.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Matrix problems/Constructors.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Matrix problems/Hi.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Preparation/AbstractionAnimal.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Preparation/InstanceOfOperator.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Preparation/InterfaceAnimal.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Preparation/PalPractice.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Preparation/PalindromeCheck.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Preparation/TernaryOperator.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Preparation/TryWithResource.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Preparation/WrapperClasses.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Week 4/ProgThreads.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Week 5/Anonymous.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Week 5/Privateandprotected.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Week 5/Privateinternal.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Week 5/array.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -129,174 +58,175 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "Application.AbstarctClass.executor": "Run",
-    "Application.AbstractPract.executor": "Run",
-    "Application.AbstractionAnimal.executor": "Run",
-    "Application.Abstractmain.executor": "Run",
-    "Application.AccessModifiers.executor": "Run",
-    "Application.AccessOuterclassFromInnerClass.executor": "Run",
-    "Application.AccessSpecifiers.executor": "Run",
-    "Application.Accesspub.executor": "Run",
-    "Application.AccssSpf.executor": "Run",
-    "Application.ActualOrder.executor": "Run",
-    "Application.Adder$Cons.executor": "Run",
-    "Application.AdditionsOftwomatrix.executor": "Run",
-    "Application.Agenotmet.executor": "Run",
-    "Application.Anonymous.executor": "Run",
-    "Application.AnonymousClassesProgs.executor": "Run",
-    "Application.ArrayElements.executor": "Run",
-    "Application.ArrayGeneric.executor": "Run",
-    "Application.ArrayListAdd.executor": "Run",
-    "Application.ArrayListCars.executor": "Run",
-    "Application.ArrayListInt.executor": "Run",
-    "Application.ArrayListMethods.executor": "Run",
-    "Application.ArrayListSorting.executor": "Run",
-    "Application.ArrayPrinting.executor": "Run",
-    "Application.ArraySorting.executor": "Run",
-    "Application.BasicStream.executor": "Run",
-    "Application.Books.executor": "Run",
-    "Application.Car.executor": "Run",
-    "Application.ClassGenerics.executor": "Run",
-    "Application.Con.executor": "Run",
-    "Application.ConPract.executor": "Run",
-    "Application.ConditionalOperators.executor": "Run",
-    "Application.Cons.executor": "Run",
-    "Application.ConstructorBike.executor": "Run",
-    "Application.Constructors.executor": "Run",
-    "Application.ConstructorsPrep.executor": "Run",
-    "Application.Counter.executor": "Run",
-    "Application.CovertListToArray.executor": "Run",
-    "Application.CreationStreams.executor": "Run",
-    "Application.Customexception.executor": "Run",
-    "Application.Details.executor": "Run",
-    "Application.DetailsLinked.executor": "Run",
-    "Application.DiffWayHash.executor": "Run",
-    "Application.Dolly.executor": "Run",
-    "Application.EncapsulationTypes.executor": "Run",
-    "Application.EvenArray.executor": "Run",
-    "Application.EvenIndexesOfArray.executor": "Run",
-    "Application.ExHashMap.executor": "Run",
-    "Application.ExampleInner.executor": "Run",
-    "Application.Examples.executor": "Run",
-    "Application.Exceptionhand.executor": "Run",
-    "Application.Exceptionjyok.executor": "Run",
-    "Application.Exceptionjyokk.executor": "Run",
-    "Application.Files$Files1.executor": "Run",
-    "Application.Files.executor": "Run",
-    "Application.Files1.executor": "Run",
-    "Application.ForEach.executor": "Run",
-    "Application.FunctionalInterfaceProgram.executor": "Run",
-    "Application.Guy.executor": "Run",
-    "Application.Guy1.executor": "Run",
-    "Application.HS.executor": "Run",
-    "Application.HandlingException.executor": "Run",
-    "Application.HashConcurrent.executor": "Run",
-    "Application.Hi.executor": "Run",
-    "Application.ImportPackageClass.executor": "Run",
-    "Application.InnerOterClasses.executor": "Run",
-    "Application.Innerclass.executor": "Run",
-    "Application.InstanceOfOperator.executor": "Run",
-    "Application.InterfaceAnimal.executor": "Run",
-    "Application.InterfaceLaptop.executor": "Run",
-    "Application.InterfacePogram.executor": "Run",
-    "Application.InterfaceProgram.executor": "Run",
-    "Application.InterfaceProgram1.executor": "Run",
-    "Application.Internalclass.executor": "Run",
-    "Application.JavaCons.executor": "Run",
-    "Application.JavaOptionals.executor": "Run",
-    "Application.JavaStreams.executor": "Run",
-    "Application.Lamdas.executor": "Run",
-    "Application.Loops.executor": "Run",
-    "Application.Main.executor": "Run",
-    "Application.Main1.executor": "Run",
-    "Application.Main5.executor": "Run",
-    "Application.Mango.executor": "Run",
-    "Application.MapTree.executor": "Run",
-    "Application.MapTreeProg.executor": "Run",
-    "Application.MapsConcs.executor": "Run",
-    "Application.MetAge.executor": "Run",
-    "Application.MethodHiding.executor": "Run",
-    "Application.Methodcalling.executor": "Run",
-    "Application.Methods.executor": "Run",
-    "Application.MultiplyTwoMatrix.executor": "Run",
-    "Application.MyClass.executor": "Run",
-    "Application.NestedClass.executor": "Run",
-    "Application.NewClass.executor": "Run",
-    "Application.NewFile.executor": "Run",
-    "Application.OptionalProgjava.executor": "Run",
-    "Application.Outerclass.executor": "Run",
-    "Application.Overrinding.executor": "Run",
-    "Application.PalPractice.executor": "Run",
-    "Application.PalindromeCheck.executor": "Run",
-    "Application.ParentChild.executor": "Run",
-    "Application.PolymorphismPrep.executor": "Run",
-    "Application.Pract.executor": "Run",
-    "Application.PracticeJava.executor": "Run",
-    "Application.Preparation.executor": "Run",
-    "Application.PrepareClasses.executor": "Run",
-    "Application.Prepjava.executor": "Run",
-    "Application.Privateandprotected.executor": "Run",
-    "Application.Privateinternal.executor": "Run",
-    "Application.ProgConModException.executor": "Run",
-    "Application.ProgDeque.executor": "Run",
-    "Application.ProgGeneric.executor": "Run",
-    "Application.ProgLinkedHashMap.executor": "Run",
-    "Application.ProgMap.executor": "Run",
-    "Application.ProgPriorityBlocking.executor": "Run",
-    "Application.ProgQueue.executor": "Run",
-    "Application.ProgStack.executor": "Run",
-    "Application.ProgThreads.executor": "Run",
-    "Application.Question05.executor": "Run",
-    "Application.RemovingHashFromHashtable.executor": "Run",
-    "Application.ReverseGivenNumber.executor": "Run",
-    "Application.RotateAMatrix.executor": "Run",
-    "Application.Scanner1.executor": "Run",
-    "Application.SearchAnElement.executor": "Run",
-    "Application.SecondHighestNumInArray.executor": "Run",
-    "Application.SetTree.executor": "Run",
-    "Application.SlidingWindow.executor": "Run",
-    "Application.Solution.executor": "Run",
-    "Application.Stars.executor": "Run",
-    "Application.StaticInnerclass.executor": "Run",
-    "Application.StreamsJavaProg.executor": "Run",
-    "Application.StringBuff.executor": "Run",
-    "Application.StringBufferThread.executor": "Run",
-    "Application.StringBuilderThread.executor": "Run",
-    "Application.StringRev.executor": "Run",
-    "Application.Stringbuffbuildmeths.executor": "Run",
-    "Application.Studentdet.executor": "Run",
-    "Application.SumofEvenIndexArray.executor": "Run",
-    "Application.TernaryOperator.executor": "Run",
-    "Application.ThreadAnother.executor": "Run",
-    "Application.ThreadExtends.executor": "Run",
-    "Application.ThreadList.executor": "Run",
-    "Application.ThreadLocalExample.executor": "Run",
-    "Application.ThreadProg.executor": "Run",
-    "Application.ThreadUsingLambda.executor": "Run",
-    "Application.ThreadUsingRunnable.executor": "Run",
-    "Application.Treesets.executor": "Run",
-    "Application.TryWithResource.executor": "Run",
-    "Application.UserInput.executor": "Run",
-    "Application.UsingStrTreeSet.executor": "Run",
-    "Application.UsingSuper.executor": "Run",
-    "Application.Whileloop.executor": "Run",
-    "Application.WrapperClasses.executor": "Run",
-    "Application.details.executor": "Run",
-    "Application.guy.executor": "Run",
-    "Application.hero.executor": "Run",
-    "Application.inface.executor": "Run",
-    "Application.lenovo.executor": "Run",
-    "Application.main.executor": "Run",
-    "Application.treeset.executor": "Run",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "git-widget-placeholder": "master",
-    "kotlin-language-version-configured": "true",
-    "last_opened_file_path": "C:/Users/91807/IdeaProjects/java full stack training/Constructors",
-    "settings.editor.selected.configurable": "preferences.lookFeel"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;Application.AbstarctClass.executor&quot;: &quot;Run&quot;,
+    &quot;Application.AbstractPract.executor&quot;: &quot;Run&quot;,
+    &quot;Application.AbstractionAnimal.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Abstractmain.executor&quot;: &quot;Run&quot;,
+    &quot;Application.AccessModifiers.executor&quot;: &quot;Run&quot;,
+    &quot;Application.AccessOuterclassFromInnerClass.executor&quot;: &quot;Run&quot;,
+    &quot;Application.AccessSpecifiers.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Accesspub.executor&quot;: &quot;Run&quot;,
+    &quot;Application.AccssSpf.executor&quot;: &quot;Run&quot;,
+    &quot;Application.ActualOrder.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Adder$Cons.executor&quot;: &quot;Run&quot;,
+    &quot;Application.AdditionsOftwomatrix.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Agenotmet.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Anonymous.executor&quot;: &quot;Run&quot;,
+    &quot;Application.AnonymousClassesProgs.executor&quot;: &quot;Run&quot;,
+    &quot;Application.ArrayElements.executor&quot;: &quot;Run&quot;,
+    &quot;Application.ArrayGeneric.executor&quot;: &quot;Run&quot;,
+    &quot;Application.ArrayListAdd.executor&quot;: &quot;Run&quot;,
+    &quot;Application.ArrayListCars.executor&quot;: &quot;Run&quot;,
+    &quot;Application.ArrayListInt.executor&quot;: &quot;Run&quot;,
+    &quot;Application.ArrayListMethods.executor&quot;: &quot;Run&quot;,
+    &quot;Application.ArrayListSorting.executor&quot;: &quot;Run&quot;,
+    &quot;Application.ArrayPrinting.executor&quot;: &quot;Run&quot;,
+    &quot;Application.ArraySorting.executor&quot;: &quot;Run&quot;,
+    &quot;Application.BasicStream.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Books.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Car.executor&quot;: &quot;Run&quot;,
+    &quot;Application.ClassGenerics.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Con.executor&quot;: &quot;Run&quot;,
+    &quot;Application.ConPract.executor&quot;: &quot;Run&quot;,
+    &quot;Application.ConditionalOperators.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Cons.executor&quot;: &quot;Run&quot;,
+    &quot;Application.ConstructorBike.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Constructors.executor&quot;: &quot;Run&quot;,
+    &quot;Application.ConstructorsPrep.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Counter.executor&quot;: &quot;Run&quot;,
+    &quot;Application.CovertListToArray.executor&quot;: &quot;Run&quot;,
+    &quot;Application.CreationStreams.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Customexception.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Details.executor&quot;: &quot;Run&quot;,
+    &quot;Application.DetailsLinked.executor&quot;: &quot;Run&quot;,
+    &quot;Application.DiffWayHash.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Dolly.executor&quot;: &quot;Run&quot;,
+    &quot;Application.EncapsulationTypes.executor&quot;: &quot;Run&quot;,
+    &quot;Application.EvenArray.executor&quot;: &quot;Run&quot;,
+    &quot;Application.EvenIndexesOfArray.executor&quot;: &quot;Run&quot;,
+    &quot;Application.ExHashMap.executor&quot;: &quot;Run&quot;,
+    &quot;Application.ExampleInner.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Examples.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Exceptionhand.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Exceptionjyok.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Exceptionjyokk.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Fibonacci.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Files$Files1.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Files.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Files1.executor&quot;: &quot;Run&quot;,
+    &quot;Application.ForEach.executor&quot;: &quot;Run&quot;,
+    &quot;Application.FunctionalInterfaceProgram.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Guy.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Guy1.executor&quot;: &quot;Run&quot;,
+    &quot;Application.HS.executor&quot;: &quot;Run&quot;,
+    &quot;Application.HandlingException.executor&quot;: &quot;Run&quot;,
+    &quot;Application.HashConcurrent.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Hi.executor&quot;: &quot;Run&quot;,
+    &quot;Application.ImportPackageClass.executor&quot;: &quot;Run&quot;,
+    &quot;Application.InnerOterClasses.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Innerclass.executor&quot;: &quot;Run&quot;,
+    &quot;Application.InstanceOfOperator.executor&quot;: &quot;Run&quot;,
+    &quot;Application.InterfaceAnimal.executor&quot;: &quot;Run&quot;,
+    &quot;Application.InterfaceLaptop.executor&quot;: &quot;Run&quot;,
+    &quot;Application.InterfacePogram.executor&quot;: &quot;Run&quot;,
+    &quot;Application.InterfaceProgram.executor&quot;: &quot;Run&quot;,
+    &quot;Application.InterfaceProgram1.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Internalclass.executor&quot;: &quot;Run&quot;,
+    &quot;Application.JavaCons.executor&quot;: &quot;Run&quot;,
+    &quot;Application.JavaOptionals.executor&quot;: &quot;Run&quot;,
+    &quot;Application.JavaStreams.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Lamdas.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Loops.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Main.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Main1.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Main5.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Mango.executor&quot;: &quot;Run&quot;,
+    &quot;Application.MapTree.executor&quot;: &quot;Run&quot;,
+    &quot;Application.MapTreeProg.executor&quot;: &quot;Run&quot;,
+    &quot;Application.MapsConcs.executor&quot;: &quot;Run&quot;,
+    &quot;Application.MetAge.executor&quot;: &quot;Run&quot;,
+    &quot;Application.MethodHiding.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Methodcalling.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Methods.executor&quot;: &quot;Run&quot;,
+    &quot;Application.MultiplyTwoMatrix.executor&quot;: &quot;Run&quot;,
+    &quot;Application.MyClass.executor&quot;: &quot;Run&quot;,
+    &quot;Application.NestedClass.executor&quot;: &quot;Run&quot;,
+    &quot;Application.NewClass.executor&quot;: &quot;Run&quot;,
+    &quot;Application.NewFile.executor&quot;: &quot;Run&quot;,
+    &quot;Application.OptionalProgjava.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Outerclass.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Overrinding.executor&quot;: &quot;Run&quot;,
+    &quot;Application.PalPractice.executor&quot;: &quot;Run&quot;,
+    &quot;Application.PalindromeCheck.executor&quot;: &quot;Run&quot;,
+    &quot;Application.ParentChild.executor&quot;: &quot;Run&quot;,
+    &quot;Application.PolymorphismPrep.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Pract.executor&quot;: &quot;Run&quot;,
+    &quot;Application.PracticeJava.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Preparation.executor&quot;: &quot;Run&quot;,
+    &quot;Application.PrepareClasses.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Prepjava.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Privateandprotected.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Privateinternal.executor&quot;: &quot;Run&quot;,
+    &quot;Application.ProgConModException.executor&quot;: &quot;Run&quot;,
+    &quot;Application.ProgDeque.executor&quot;: &quot;Run&quot;,
+    &quot;Application.ProgGeneric.executor&quot;: &quot;Run&quot;,
+    &quot;Application.ProgLinkedHashMap.executor&quot;: &quot;Run&quot;,
+    &quot;Application.ProgMap.executor&quot;: &quot;Run&quot;,
+    &quot;Application.ProgPriorityBlocking.executor&quot;: &quot;Run&quot;,
+    &quot;Application.ProgQueue.executor&quot;: &quot;Run&quot;,
+    &quot;Application.ProgStack.executor&quot;: &quot;Run&quot;,
+    &quot;Application.ProgThreads.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Question05.executor&quot;: &quot;Run&quot;,
+    &quot;Application.RemovingHashFromHashtable.executor&quot;: &quot;Run&quot;,
+    &quot;Application.ReverseGivenNumber.executor&quot;: &quot;Run&quot;,
+    &quot;Application.RotateAMatrix.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Scanner1.executor&quot;: &quot;Run&quot;,
+    &quot;Application.SearchAnElement.executor&quot;: &quot;Run&quot;,
+    &quot;Application.SecondHighestNumInArray.executor&quot;: &quot;Run&quot;,
+    &quot;Application.SetTree.executor&quot;: &quot;Run&quot;,
+    &quot;Application.SlidingWindow.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Solution.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Stars.executor&quot;: &quot;Run&quot;,
+    &quot;Application.StaticInnerclass.executor&quot;: &quot;Run&quot;,
+    &quot;Application.StreamsJavaProg.executor&quot;: &quot;Run&quot;,
+    &quot;Application.StringBuff.executor&quot;: &quot;Run&quot;,
+    &quot;Application.StringBufferThread.executor&quot;: &quot;Run&quot;,
+    &quot;Application.StringBuilderThread.executor&quot;: &quot;Run&quot;,
+    &quot;Application.StringRev.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Stringbuffbuildmeths.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Studentdet.executor&quot;: &quot;Run&quot;,
+    &quot;Application.SumofEvenIndexArray.executor&quot;: &quot;Run&quot;,
+    &quot;Application.TernaryOperator.executor&quot;: &quot;Run&quot;,
+    &quot;Application.ThreadAnother.executor&quot;: &quot;Run&quot;,
+    &quot;Application.ThreadExtends.executor&quot;: &quot;Run&quot;,
+    &quot;Application.ThreadList.executor&quot;: &quot;Run&quot;,
+    &quot;Application.ThreadLocalExample.executor&quot;: &quot;Run&quot;,
+    &quot;Application.ThreadProg.executor&quot;: &quot;Run&quot;,
+    &quot;Application.ThreadUsingLambda.executor&quot;: &quot;Run&quot;,
+    &quot;Application.ThreadUsingRunnable.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Treesets.executor&quot;: &quot;Run&quot;,
+    &quot;Application.TryWithResource.executor&quot;: &quot;Run&quot;,
+    &quot;Application.UserInput.executor&quot;: &quot;Run&quot;,
+    &quot;Application.UsingStrTreeSet.executor&quot;: &quot;Run&quot;,
+    &quot;Application.UsingSuper.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Whileloop.executor&quot;: &quot;Run&quot;,
+    &quot;Application.WrapperClasses.executor&quot;: &quot;Run&quot;,
+    &quot;Application.details.executor&quot;: &quot;Run&quot;,
+    &quot;Application.guy.executor&quot;: &quot;Run&quot;,
+    &quot;Application.hero.executor&quot;: &quot;Run&quot;,
+    &quot;Application.inface.executor&quot;: &quot;Run&quot;,
+    &quot;Application.lenovo.executor&quot;: &quot;Run&quot;,
+    &quot;Application.main.executor&quot;: &quot;Run&quot;,
+    &quot;Application.treeset.executor&quot;: &quot;Run&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;master&quot;,
+    &quot;kotlin-language-version-configured&quot;: &quot;true&quot;,
+    &quot;last_opened_file_path&quot;: &quot;C:/Users/91807/IdeaProjects/java full stack training/Constructors&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;preferences.lookFeel&quot;
   }
-}]]></component>
+}</component>
   <component name="RecentsManager">
     <key name="CreateClassDialog.RecentsKey">
       <recent name="" />
@@ -305,7 +235,7 @@
       <recent name="C:\Users\91807\IdeaProjects\java full stack training\Constructors" />
     </key>
   </component>
-  <component name="RunManager">
+  <component name="RunManager" selected="Application.Adder$Cons">
     <configuration name="Adder$Cons" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Adder$Cons" />
       <module name="java full stack training" />
@@ -392,7 +322,15 @@
       <option name="project" value="LOCAL" />
       <updated>1719377785472</updated>
     </task>
-    <option name="localTasksCounter" value="7" />
+    <task id="LOCAL-00007" summary="commit">
+      <option name="closed" value="true" />
+      <created>1720433703692</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1720433703692</updated>
+    </task>
+    <option name="localTasksCounter" value="8" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">

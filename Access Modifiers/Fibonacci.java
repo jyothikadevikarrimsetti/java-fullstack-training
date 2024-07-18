@@ -10,6 +10,16 @@ public class Fibonacci {
             int sum = a+b;
             a=b;
             b=sum;
+
+
+
+//            1 1
+//            2 2
+//            3 3
+//            4 4
+//            5 5
         }
+//        String s = null;
+//        System.out.println(s.length());
     }
 }

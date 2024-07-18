@@ -4,6 +4,10 @@ import java.util.List;
 import java.util.stream.Stream;
 
 public class StreamsJavaProg {
+    int i =0;
+     {
+        System.out.println(i);
+    }
     public static void main(String[] args) {
         List<Integer> list = new ArrayList<>();
         Collections.addAll(list,1,7,2,3,45,67,12,1,3,4,5);
@@ -13,9 +17,10 @@ public class StreamsJavaProg {
 //        sortedstream.map((n)-> n*n).forEach(n-> System.out.print(n+" "));
         stream
                 .sorted()
-                .map((n)->n*n)
+                .map((n)->n*n).filter(n->n%2==0)                 //filter(n-> !(n>=40&&n<=60))
 
                 .forEach(n-> System.out.println(n));
+
 
 //        newProductstream.forEach(n-> System.out.println(n+" "));
     }

@@ -1,4 +1,4 @@
-public class SlidingWindow {
+public class SlidingWindow2 {
     public static void main(String[] args) {
         int[] arr = {10,20,30,40,50,60};    //10+20+30 , 20+30+40, 30+40+50
         int windowSize = 3;
